@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    padding-top: 120px;
+    background-color: #2e3233;
+    
+}
+.container {
+    height:100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.calci{
+    text-align: center;
+    width: 350px;
+    padding: 35px;
+    /* margin: 4% 35% ; */
+    background-color: #221f1f;
+    color: white;
+    
+}
+.key{
+    padding: 22px;
+    margin: 3px;
+    width: 69.512px;
+}
+.screen{
+    margin-bottom: 32px;
+    padding: 10px;
+
+}
+#equalto{
+    padding: 22px;
+    margin: 3px;
+    width: 69.512px;
+}
+#equalto:hover{
+    background-color: #5cb85c;
+}
+.key:hover{
+    background-color: #5cb85c;
+    
+}
+.reset{
+    padding: 22px;
+    margin: 3px;
+    width: 69.512px;
+}
+.reset:hover{
+    background-color: #5cb85c;
+}
+.title{
+    padding: 22px;
+    margin: 3px;
+    width: 215.536px;
+}
+.clicked{
+    background-color: #5cb85c;
+}
+
