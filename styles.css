@@ -23,7 +23,7 @@ body{
 .key{
     padding: 22px;
     margin: 3px;
-    width: 69.512px;
+    width: 68px;
 }
 .screen{
     margin-bottom: 32px;
@@ -33,7 +33,7 @@ body{
 #equalto{
     padding: 22px;
     margin: 3px;
-    width: 69.512px;
+    width: 68px;
 }
 #equalto:hover{
     background-color: #5cb85c;
@@ -45,7 +45,7 @@ body{
 .reset{
     padding: 22px;
     margin: 3px;
-    width: 69.512px;
+    width: 68px;
 }
 .reset:hover{
     background-color: #5cb85c;
